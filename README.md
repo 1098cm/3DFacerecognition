@@ -3,5 +3,3 @@ Pytorch implementation of "Toward three-dimensional face recognition via adaptiv
 ## Installation
 
 ## Evaluation
-
-## Training
