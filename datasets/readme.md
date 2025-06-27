@@ -1,1 +1,1 @@
-This folder holds training data and test data, which are available for download.
+This folder holds training data and test data, which are available for download.  
