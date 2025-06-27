@@ -10,7 +10,7 @@ We propose a method to generate the geometric structure maps of human faces thro
 2.Install PyTorch  
 `conda install pytorch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 pytorch-cuda=11.8 -c pytorch`
 
-3.Insatll pytorch3d  
+3.Insatll [pytorch3d](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md)   
 
 4.face-alignment  
 
