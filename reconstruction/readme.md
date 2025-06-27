@@ -1,0 +1,1 @@
+Depth maps and detail shape maps were generated using the DECA reconstruction method, as detailed on the web page: https://github.com/yfeng95/DECA
